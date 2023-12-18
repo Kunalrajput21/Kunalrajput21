@@ -19,12 +19,12 @@ I'm a data enthusiast with a Bachelor's in Electrical Engineering.
 
 I'm seeking a role in Data Analysis or Data Analytics to contribute my skills and passion for impactful analysis, continuous learning, and ethical data practices to a forward-thinking team and organization.
 
-## my Skills
+## My Skills
 - SQL, Python, Advanced Excel, Machine Learning, Power Bi, Tablue, Micrisoft Ofiice
 
 ## Let's Connect
 
-- [LinkedIn] (https://www.linkedin.com/in/kunal-rajput-23459315a)
-- [Email] (kunalrajputrana2028@gmail.com) 
+- [LinkedIn] https://www.linkedin.com/in/kunal-rajput-23459315a
+- [Email] kunalrajputrana2028@gmail.com 
 
 Feel free to connect to discuss opportunities or simply chat about all things data! 😊
